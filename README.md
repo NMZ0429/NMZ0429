@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/NMZ0429/NMZ0429/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
@@ -22,7 +22,7 @@
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://raw.githubusercontent.com/NMZ0429/NMZ0429/main/profile-summary-card-output/solarized_dark/4-productive-time.svg" alt="Productive Time">
   </a>
-</div>
+</div> -->
 
 [![](https://raw.githubusercontent.com/NMZ0429/NMZ0429/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/NMZ0429/NMZ0429/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/NMZ0429/NMZ0429/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
